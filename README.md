@@ -38,9 +38,11 @@ Hi! I'm Constantine, i'm data Analyst.
 
 ## 📊 Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prokhorovsky-rgb&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prokhorovsky-rgb&layout=compact)
 
 ---
+
+## 📫 Contacts
 
 [![Email](https://img.shields.io/badge/Yahoo_Mail-6001D2?style=flat-square&logo=yahoo&logoColor=white)](mailto:prokhorovsky@yahoo.com)
 
@@ -50,60 +52,5 @@ Hi! I'm Constantine, i'm data Analyst.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# заголовок 1
-## заголовок 2
-### заголовок 3
-
-**Жирный текст**
-*курсив*
-- пункт 1
-- пункт 2
-- пункт 3
-  - подпункт 3.1
-  - подпункт 3.2
-
-1. первый
-2. второй
-3. третий
-
-- [x] сделано
-- [ ] не сделано
-
-> это цитата
->> уровень 2
->>> уровень 3
----
-```python
-print('Hello World')
-```
-[google](http://google.com)
-
-![что-то там](https://wl-adme.cf.tsp.li/resize/728x/jpg/3e3/2bd/67e9e850a5bc721acc51ede640.jpg)
-
-| имя | возраст |
-|-----|---------|
-| Иван | 33 |
-| Анна | 44 |
 
 
