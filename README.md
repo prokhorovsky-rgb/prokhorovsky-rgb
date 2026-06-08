@@ -28,9 +28,25 @@ Hi! I'm Constantine, i'm data Analyst.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
+---
 
+## 📂 Projects
 
+> в разработке...
 
+---
+
+## 📊 Activity
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prokhorovsky-rgb&layout=compact&theme=github_dark)
+
+---
+
+[![Email](https://img.shields.io/badge/Yahoo_Mail-6001D2?style=flat-square&logo=yahoo&logoColor=white)](mailto:prokhorovsky@yahoo.com)
+
+[![Email](https://img.shields.io/badge/iCloud_Mail-0FADFF?style=flat-square&logo=icloud&logoColor=white)](mailto:prokhorovsky@icloud.com)
+
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+79779660044)
 
 
 
