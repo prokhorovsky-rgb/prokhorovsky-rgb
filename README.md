@@ -26,7 +26,7 @@ print('Hello World')
 ```
 [google](http://google.com)
 
-![что-то там]([)](https://wl-adme.cf.tsp.li/resize/728x/jpg/3e3/2bd/67e9e850a5bc721acc51ede640.jpg)
+![что-то там](https://wl-adme.cf.tsp.li/resize/728x/jpg/3e3/2bd/67e9e850a5bc721acc51ede640.jpg)
 
 | имя | возраст |
 |-----|---------|
