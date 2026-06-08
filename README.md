@@ -26,7 +26,7 @@ print('Hello World')
 ```
 [google](http://google.com)
 
-![что-то там]([)](https://wl-adme.cf.tsp.li/resize/728x/jpg/453/a87/8353725363894d8c91b554719d.jpg)
+![что-то там](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fadme.media%2Farticles%2F20-chelovek-kotorye-na-lyubye-fotografii-smotryat-skvoz-prizmu-sarkazma-2021565%2F&ved=0CBYQjRxqFwoTCJiN6Jyb95QDFQAAAAAdAAAAABAg&opi=89978449)
 
 | имя | возраст |
 |-----|---------|
