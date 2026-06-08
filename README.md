@@ -1,9 +1,17 @@
 ![](https://komarev.com/ghpvc/?username=prokhorovsky-rgb&color=grey)
 ## Konichiva!
 [![Codewars](https://www.codewars.com/users/prokhorovsky-rgb/badges/small)](https://www.codewars.com/users/prokhorovsky-rgb)
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXBtNzB1MXltNzZ3Mjd2aG5hZm4zeHJobTR4ODk5NXY5NDhlcmM5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0ijJhqrUP4T2EvmJ1/giphy.gif" alt="Hello World" width="300"/>
 
+---
 
+## 👨‍💻 About Me
 
+Hi! I'm Constantine, i'm data Analyst.
+
+- 🌱 Constantly learning new technologies
+- 🚀 Specializing in web development
+- 💡 Prefer a hands-on approach to learning
 
 
 
